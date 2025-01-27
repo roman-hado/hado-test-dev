@@ -74,12 +74,27 @@
             "icon_type": "bag",
             "icon_horizontal_position": "left"
           }
+        },
+        "byob_byob_confirm_modal_block_3UWyTA": {
+          "type": "shopify://apps/byob/blocks/byob-confirm-modal-block/cbcdb3c1-93e1-4702-8f46-0cad28865e89",
+          "settings": {
+            "button_color": "",
+            "button_text_color": "",
+            "show_confirm_modal": true,
+            "show_view_cart_button": true,
+            "direct_checkout": false,
+            "show_create_another_button": false,
+            "hide_sku_on_cart": true,
+            "show_quantity_in_line_items": false,
+            "disable_block_list": false
+          }
         }
       },
       "block_order": [
         "byob_byob_bundle_info_block_APcLxN",
         "byob_byob_product_grid_block_XJGHYB",
-        "byob_byob_footer_block_fJtrLf"
+        "byob_byob_footer_block_fJtrLf",
+        "byob_byob_confirm_modal_block_3UWyTA"
       ],
       "settings": {
         "include_margins": true
