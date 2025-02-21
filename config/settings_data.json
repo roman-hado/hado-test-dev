@@ -146,15 +146,8 @@
           "custom_js": ""
         }
       },
-      "1530068250781986104": {
-        "type": "shopify://apps/fbp-fast-bundle/blocks/fast_bundle/9e87fbe2-9041-4c23-acf5-322413994cef",
-        "disabled": true,
-        "settings": {
-          "home": false
-        }
-      },
-      "4143866229958350875": {
-        "type": "shopify://apps/upsell-koala-bundles/blocks/deals-embed/2b951f75-113f-4fca-bdf3-c92703235716",
+      "14060646107696862457": {
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {}
       }
